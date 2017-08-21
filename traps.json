@@ -4,49 +4,49 @@
     "trapName"  : "Trap name 1",
     "component" : "Component 1",
     "severity"  : "1",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 2",
     "component" : "Component 2",
     "severity"  : "2",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 3",
     "component" : "Component 3",
     "severity"  : "3",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 4",
     "component" : "Component 4",
     "severity"  : "4",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 5",
     "component" : "Component 5",
     "severity"  : "5",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 6",
     "component" : "Component 6",
     "severity"  : "6",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 7",
     "component" : "Component 7",
     "severity"  : "1",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    },
     {
     "trapName"  : "Trap name 8",
     "component" : "Component 8",
     "severity"  : "3",
-    "dataTime"  : "01-02-2017" 
+    "dateTime"  : "01-02-2017" 
    }
    
   ]
